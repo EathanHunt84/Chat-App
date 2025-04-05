@@ -18,4 +18,4 @@ def get_private_ip():
 app = create_app()
 
 
-Socketio.run(app, host= "0.0.0.0", port=5000) 
+Socketio.run(app, host= "0.0.0.0", port=8000) 
