@@ -19,3 +19,6 @@ app = create_app()
 
 
 Socketio.run(app, host= "0.0.0.0", port=8000) 
+#If you want to run this chat application in your private network then call
+#get_private_ip() into host parameter
+#example: Socketio.run(app, host= f"{get_private_ip()}", port=8000)

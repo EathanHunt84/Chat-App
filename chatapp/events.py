@@ -1,5 +1,4 @@
 from flask import request
-#from flask import emit
 from .extensions import Socketio, emit
 
 users = {}
