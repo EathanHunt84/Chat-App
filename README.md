@@ -51,7 +51,7 @@ The app uses **Socket.IO** via CDN, so no additional frontend setup is needed.
 
 ---
 ## Using Application:
-[Link](military-marylou-shally-924aa567.koyeb.app/)
+Visit this link to use this application: 
 
 
 ```
